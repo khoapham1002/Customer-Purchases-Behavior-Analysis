@@ -1,4 +1,15 @@
 ## Walmart Purchase Behavior Analysis
+YOU CAN CHECK OUT MY [PROJECT NOTEBOOKS](https://github.com/khoapham1002/Walmart-Purchases-Behavior-Analysis/blob/main/reports/walmart-purchases-habit.pdf) FIRST!
+
+## Table of Contents
+- [Tools & Technologies](#tools--technologies)
+- [Project Overview](#project-overview)
+- [Key Contributions](#key-contributions)
+    - [Customer Spending Analysis](#customer-spending-analysis)
+    - [Gender-Based Spending Insights](#gender-based-spending-insights)
+    - [Age and Marital Status Impact](#age-and-marital-status-impact)
+    - [Business Recommendations](#business-recommendations)
+- [Impact & Insights](#impact--insights)
 
 ### Tools & Technologies:
 Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, Statistical Analysis
