@@ -17,10 +17,10 @@ YOU CAN CHECK OUT MY [PROJECT NOTEBOOKS](https://github.com/khoapham1002/Walmart
 
 
 ## Project Overview:   
-- Performed **exploratory data analysis (EDA)** to understand spending patterns across different customer demographics.
-- Conducted **hypothesis testing and confidence interval analysis** to compare spending behavior between male and female customers.
-- Applied **data visualization techniques** to reveal trends in purchase behavior during Black Friday sales.
-- Provided **actionable recommendations** for business improvements based on key findings.
+- Performed exploratory data analysis (EDA) to understand spending patterns across different customer demographics.
+- Conducted hypothesis testing and confidence interval analysis to compare spending behavior between male and female customers.
+- Applied data visualization techniques to reveal trends in purchase behavior during Black Friday sales.
+- Provided actionable recommendations for business improvements based on key findings.
 
 
 ## Tools & Technologies:
