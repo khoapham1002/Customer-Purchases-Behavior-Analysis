@@ -2,6 +2,8 @@
 
 ### Tools & Technologies:
 Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, Statistical Analysis
+Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, Statistical Analysis
+
 
 ### Project Overview:   
 - Performed **exploratory data analysis (EDA)** to understand spending patterns across different customer demographics.
