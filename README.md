@@ -2,7 +2,6 @@
 
 ### Tools & Technologies:
 Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, Statistical Analysis
-Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, Statistical Analysis
 
 
 ### Project Overview:   
