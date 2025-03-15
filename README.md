@@ -1,9 +1,12 @@
 ## Walmart Purchase Behavior Analysis
 YOU CAN CHECK OUT MY [PROJECT NOTEBOOKS](https://github.com/khoapham1002/Walmart-Purchases-Behavior-Analysis/blob/main/reports/walmart-purchases-habit.pdf) FIRST!
 
+
+
 ## Table of Contents
-- [Tools & Technologies](#tools--technologies)
 - [Project Overview](#project-overview)
+- [Tools & Technologies](#tools--technologies)
+- [Setup](#setup)
 - [Key Contributions](#key-contributions)
     - [Customer Spending Analysis](#customer-spending-analysis)
     - [Gender-Based Spending Insights](#gender-based-spending-insights)
@@ -11,8 +14,6 @@ YOU CAN CHECK OUT MY [PROJECT NOTEBOOKS](https://github.com/khoapham1002/Walmart
     - [Business Recommendations](#business-recommendations)
 - [Impact & Insights](#impact--insights)
 
-### Tools & Technologies:
-Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, Statistical Analysis
 
 
 ### Project Overview:   
@@ -20,6 +21,21 @@ Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, Statistical Analysis
 - Conducted **hypothesis testing and confidence interval analysis** to compare spending behavior between male and female customers.
 - Applied **data visualization techniques** to reveal trends in purchase behavior during Black Friday sales.
 - Provided **actionable recommendations** for business improvements based on key findings.
+
+
+### Tools & Technologies:
+Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, Statistical Analysis
+
+
+## Setup
+```bash
+git clone <repository-url>
+cd <repository-directory>
+pip3 install -r requirements.txt
+jupyter notebook notebook.ipynb
+```
+
+
 
 ### Key Contributions:
 #### Customer Spending Analysis:
