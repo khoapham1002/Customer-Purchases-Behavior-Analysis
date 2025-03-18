@@ -1,7 +1,5 @@
-## Walmart Purchase Behavior Analysis
+## Customer Purchase Behavior Analysis
 YOU CAN CHECK OUT MY [PROJECT NOTEBOOKS](https://github.com/khoapham1002/Walmart-Purchases-Behavior-Analysis/blob/main/reports/walmart-purchases-habit.pdf) FIRST!
-
-
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -34,7 +32,6 @@ cd <repository-directory>
 pip3 install -r requirements.txt
 jupyter notebook notebook.ipynb
 ```
-
 
 
 ## Key Contributions:
